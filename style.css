@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.outer{
+    width: 700px;
+    height:800px;
+    margin: 0px auto;
+}
+.border{
+    width: 97%;
+    padding:10px;
+    background-color: rgb(231, 188, 188);
+    border: 1px solid black;
+    font-weight: bold;
+    font-size: 20px;
+}
+ul{
+    font-size: 20px;
+    margin-left: 20px;
+}
+h2{
+    float: right;
+}
